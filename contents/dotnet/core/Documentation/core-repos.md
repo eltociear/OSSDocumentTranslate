@@ -82,3 +82,6 @@
 |リポジトリ                                    |説明                 |
 |--------------------------------------------|--------------------|
 |[dotnet/wcf](https://github.com/dotnet/wcf) |WCF client libraries|
+
+---
+[オリジナル](https://github.com/dotnet/core/blob/master/Documentation/core-repos.md)
