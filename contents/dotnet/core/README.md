@@ -39,7 +39,7 @@ dotnet/coreリポジトリは.NET Coreの出発点として適しています。
 
 ## .NET Foundation
 
-.NET プラットフォームは、 [.NET Foundation](https://www.dotnetfoundation.org) 一部です。
+.NET プラットフォームは、 [.NET Foundation](https://www.dotnetfoundation.org) の一部です。
 
 ## ライセンス
 
