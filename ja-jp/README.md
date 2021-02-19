@@ -8,6 +8,4 @@ OSSのドキュメント文章を日本語(ja-jp)に翻訳します
 Issueからでお願いします
 
 ## リスト
-- [golang/go](https://github.com/golang/go)
--- [CONTRIBUTING.md](../contents/golang/go/CONTRIBUTING.md)
--- [README.md](../contents/golang/go/README.md)
+- [golang/go](https://github.com/golang/go) : [CONTRIBUTING.md](../contents/golang/go/CONTRIBUTING.md) / [README.md](../contents/golang/go/README.md)
