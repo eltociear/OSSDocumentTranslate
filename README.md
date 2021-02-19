@@ -5,7 +5,7 @@
 Translate OSS document text.
 
 ## Deletion request
-Please start from the report in Issue.
+I'm sorry for the trouble, Please start from the report in Issue. I will respond as soon as possible.
 
 ## Contribution
 I would be grateful if you could feel free to send me a PR regarding the updated content, translation deficiencies, and typographical errors.
