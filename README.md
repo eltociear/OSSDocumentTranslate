@@ -11,4 +11,4 @@ I'm sorry for the trouble, Please start from the report in Issue. I will respond
 I would be grateful if you could feel free to send me a PR regarding the updated content, translation deficiencies, and typographical errors.
 
 ## Disclaimer
-Since it is a Gabber translation, I cannot take responsibility for reading and executing this content. Thank you for your understanding.
+Since it is a "gabagaba translation" (It mean low quality translation), I cannot take responsibility for reading and executing this content. Thank you for your understanding.
