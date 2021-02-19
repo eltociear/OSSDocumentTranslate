@@ -8,7 +8,7 @@ Goは簡単にシンプルで信頼性の高く、効率的なソフトウェア
 正規のGitリポジトリは https://go.googlesource.com/go にあります。
 ミラーのリポジトリは https://github.com/golang/go にあります。
 
-特に明記がない限り、GoのソースファイルはLICENSEファイルにあるBSDライセンスです。
+特に明記がない限り、GoのソースファイルはLICENSEファイルにあるBSDライセンスで配布されます。
 
 ### ダウンロードとインストール
 
