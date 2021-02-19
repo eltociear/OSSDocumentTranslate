@@ -4,7 +4,7 @@
 
 <img align="right" src=docs/images/deno3.png height="150px">
 
-DenoはV8を使用し、Rustでビルドされた _シンプル_で _モダン_ かつ _セキュア_ な **JavaScript** と **TypeScript** ランタイムです。
+DenoはV8を使用し、Rustでビルドされた _シンプル_ で _モダン_ かつ _セキュア_ な **JavaScript** と **TypeScript** ランタイムです。
 
 ### 特徴
 
