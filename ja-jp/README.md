@@ -26,3 +26,4 @@ OSSのドキュメント文章を翻訳します。
 - [golang/go](https://github.com/golang/go) : [CONTRIBUTING.md](../contents/golang/go/CONTRIBUTING.md) / [README.md](../contents/golang/go/README.md)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) : [CONTRIBUTING.md](../contents/kubernetes/kubernetes/CONTRIBUTING.md) / [README.md](../contents/kubernetes/kubernetes/README.md) / [SUPPORT.md](../contents/kubernetes/kubernetes/SUPPORT.md)
 - [laravel/laravel](https://github.com/laravel/laravel) : [README.md](../contents/laravel/laravel/README.md)
+- [torvalds/linux](https://github.com/torvalds/linux) : [README](../contents/torvalds/linux/README)
