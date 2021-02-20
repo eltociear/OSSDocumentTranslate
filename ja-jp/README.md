@@ -13,6 +13,12 @@ OSSのドキュメント文章を翻訳します。
 ## 免責事項
 ガバ訳ですので、この内容を読んで実行した事に関するあらゆる責任負いかねます。予めご了承下さい。
 
+## 謝辞
+皆様方の寄与なしに世界の発展はあり得ません。全てのOSSとその作者様、そして全てのコントリビュータにこの場をお借りして感謝申し上げます。
+
+## リポジトリ所有者
+@eltociear (Ikko Ashimine)
+
 ## リスト
 - [composer/composer](https://github.com/composer/composer) : [README.md](../contents/composer/composer/README.md)
 - [denoland/deno](https://github.com/denoland/deno) : [CODE_OF_CONDUCT.md](../contents/denoland/deno/CODE_OF_CONDUCT.md) / [README.md](../contents/denoland/deno/README.md)
