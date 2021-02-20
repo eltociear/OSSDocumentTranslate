@@ -1,0 +1,21 @@
+Linuxカーネル
+============
+
+カーネル開発者とユーザー向けのガイドがいくつかあります。
+これらのガイドはHTMLやPDFといった様々な形式でレンダリングされます。
+まずはDocumentation/admin-guide/README.rstをお読み下さい。
+
+ドキュメントを作成するには ``make htmldocs`` もしくは ``make pdfdocs`` を使用します。
+フォーマットされたドキュメントは、オンラインでも読むことが出来ます。
+
+    https://www.kernel.org/doc/html/latest/
+
+Documentation/のサブディレクトリには様々なテキストファイルがあり、
+その内のいくつかはreStructuredText マークアップ仕様を使用しています。
+
+カーネルを構築して実行する為の要件と、カーネルのアップグレードによって発生する
+可能性のある問題に関する情報が含まれている
+Documentation/process/changes.rstファイルをお読み下さい。
+
+---
+[オリジナル](https://github.com/torvalds/linux/blob/master/README)
