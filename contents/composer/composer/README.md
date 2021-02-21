@@ -57,7 +57,7 @@ ComposerはMITライセンスとしてライセンスされています。 - 詳
 ---------------
 
 - このプロジェクトのソルバーは、openSUSEのPHPポートとしてはじまりました。
-  [Libzypp satsolver](https://en.opensuse.org/openSUSE:Libzypp_satsolver).
+  [Libzypp satsolver](https://en.opensuse.org/openSUSE:Libzypp_satsolver) 。
 
 ---
 [オリジナル](https://github.com/composer/composer/blob/master/README.md)
