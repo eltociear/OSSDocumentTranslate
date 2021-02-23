@@ -30,3 +30,4 @@ OSSのドキュメント文章を翻訳します。
 - [laravel/laravel](https://github.com/laravel/laravel) : [README.md](./laravel/laravel/README.md)
 - [npm/cli](https://github.com/npm/cli) : [README.md](./npm/cli/README.md)
 - [torvalds/linux](https://github.com/torvalds/linux) : [README](./torvalds/linux/README)
+- [whatwg/html](https://github.com/whatwg/html) : [README.md](./whatwg/html/README.md)
