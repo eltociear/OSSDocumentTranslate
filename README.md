@@ -1,5 +1,5 @@
 # OSS Documents Translate
-[日本語](./contents/ja-jp/README.md)
+[日本語 (ja-jp)](./contents/ja-jp/README.md)
 
 ## What is this repository?
 Translate OSS document text.
