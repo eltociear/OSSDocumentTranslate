@@ -8,7 +8,7 @@ Translate OSS document text.
 I'm sorry for the trouble, Please start from the report in Issue. I will respond as soon as possible.
 
 ## Contribution
-I would be grateful if you could feel free to send me a PR regarding the updated content, translation deficiencies, and typographical errors.
+Please see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## Disclaimer
 Since it is a "gabagaba translation" (It mean low quality translation), I cannot take responsibility for reading and executing this content. Thank you for your understanding.
