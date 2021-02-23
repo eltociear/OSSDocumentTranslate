@@ -24,6 +24,7 @@ OSSのドキュメント文章を翻訳します。
 - [d3/d3](https://github.com/d3/d3) : [README.md](./d3/d3/README.md)
 - [denoland/deno](https://github.com/denoland/deno) : [CODE_OF_CONDUCT.md](./denoland/deno/CODE_OF_CONDUCT.md) / [README.md](./denoland/deno/README.md)
 - [dotnet/core](https://github.com/dotnet/core) : [CODE_OF_CONDUCT.md](./dotnet/core/CODE_OF_CONDUCT.md) / [CONTRIBUTING.md](./dotnet/core/CONTRIBUTING.md) / [README.md](./dotnet/core/README.md)
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) : [LICENSE](./EbookFoundation/free-programming-books/LICENSE) / [README.md](./EbookFoundation/free-programming-books/README.md)
 - [golang/go](https://github.com/golang/go) : [CONTRIBUTING.md](./golang/go/CONTRIBUTING.md) / [README.md](./golang/go/README.md)
 - [google/material-design-icons](https://github.com/google/material-design-icons) : [README.md](./google/material-design-icons/README.md)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) : [CONTRIBUTING.md](./kubernetes/kubernetes/CONTRIBUTING.md) / [README.md](./kubernetes/kubernetes/README.md) / [SUPPORT.md](./kubernetes/kubernetes/SUPPORT.md)
