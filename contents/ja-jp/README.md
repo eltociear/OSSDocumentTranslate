@@ -34,3 +34,4 @@ OSSのドキュメント文章を翻訳します。
 - [torvalds/linux](https://github.com/torvalds/linux) : [README](./torvalds/linux/README)
 - [vercel/next.js](https://github.com/vercel/next.js) : [README.md](./vercel/next.js/packages/next/README.md) / [SECURITY.md](./vercel/next.js/SECURITY.md) / [UPGRADING.md](./vercel/next.js/UPGRADING.md)
 - [whatwg/html](https://github.com/whatwg/html) : [README.md](./whatwg/html/README.md)
+- [yarnpkg/yarn](https://github.com/yarnpkg/yarn) : [CONTRIBUTING.md](./yarnpkg/yarn/CONTRIBUTING.md) / [README.md](./yarnpkg/yarn/README.md)
