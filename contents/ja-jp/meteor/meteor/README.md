@@ -22,7 +22,7 @@ Meteorを使用すると、アプリを作成できます：
 
 ## クイックスタート
 
-Windowsの場合、インストーラーはhttps://www.meteor.com/installにあります。
+Windowsの場合、インストーラーは https://www.meteor.com/install にあります。
 
 Linux/macOSの場合では、次の行を使用します：
 
