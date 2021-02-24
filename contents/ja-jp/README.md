@@ -29,6 +29,7 @@ OSSのドキュメント文章を翻訳します。
 - [google/material-design-icons](https://github.com/google/material-design-icons) : [README.md](./google/material-design-icons/README.md)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) : [CONTRIBUTING.md](./kubernetes/kubernetes/CONTRIBUTING.md) / [README.md](./kubernetes/kubernetes/README.md) / [SUPPORT.md](./kubernetes/kubernetes/SUPPORT.md)
 - [laravel/laravel](https://github.com/laravel/laravel) : [README.md](./laravel/laravel/README.md)
+- [meteor/meteor](https://github.com/meteor/meteor) : [README.md](./meteor/meteor/README.md)
 - [npm/cli](https://github.com/npm/cli) : [README.md](./npm/cli/README.md)
 - [torvalds/linux](https://github.com/torvalds/linux) : [README](./torvalds/linux/README)
 - [vercel/next.js](https://github.com/vercel/next.js) : [README.md](./vercel/next.js/packages/next/README.md) / [SECURITY.md](./vercel/next.js/SECURITY.md) / [UPGRADING.md](./vercel/next.js/UPGRADING.md)
