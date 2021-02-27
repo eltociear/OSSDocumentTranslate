@@ -34,6 +34,7 @@ OSSのドキュメント文章を翻訳します。
 - [npm/cli](https://github.com/npm/cli) : [README.md](./npm/cli/README.md)
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) : [CONTRIBUTING.md](./rust-lang/cargo/CONTRIBUTING.md) / [README.md](./rust-lang/cargo/README.md)
 - [torvalds/linux](https://github.com/torvalds/linux) : [README](./torvalds/linux/README)
+- [usablica/intro.js](https://github.com/usablica/intro.js) : [README.md](./usablica/intro.js/README.md)
 - [vercel/next.js](https://github.com/vercel/next.js) : [README.md](./vercel/next.js/packages/next/README.md) / [SECURITY.md](./vercel/next.js/SECURITY.md) / [UPGRADING.md](./vercel/next.js/UPGRADING.md)
 - [whatwg/html](https://github.com/whatwg/html) : [README.md](./whatwg/html/README.md)
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) : [CONTRIBUTING.md](./yarnpkg/yarn/CONTRIBUTING.md) / [README.md](./yarnpkg/yarn/README.md)
