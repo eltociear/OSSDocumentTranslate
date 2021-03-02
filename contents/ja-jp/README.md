@@ -36,6 +36,7 @@
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) : [CONTRIBUTING.md](./kubernetes/kubernetes/CONTRIBUTING.md) / [README.md](./kubernetes/kubernetes/README.md) / [SUPPORT.md](./kubernetes/kubernetes/SUPPORT.md)
 - [laravel/laravel](https://github.com/laravel/laravel) : [README.md](./laravel/laravel/README.md)
 - [meteor/meteor](https://github.com/meteor/meteor) : [README.md](./meteor/meteor/README.md)
+- [mongodb/mongo](https://github.com/mongodb/mongo) : [CONTRIBUTING.rst](./mongodb/mongo/CONTRIBUTING.rst) / [README.md](./mongodb/mongo/README)
 - [npm/cli](https://github.com/npm/cli) : [README.md](./npm/cli/README.md)
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) : [CONTRIBUTING.md](./rust-lang/cargo/CONTRIBUTING.md) / [README.md](./rust-lang/cargo/README.md)
 - [torvalds/linux](https://github.com/torvalds/linux) : [README](./torvalds/linux/README)
