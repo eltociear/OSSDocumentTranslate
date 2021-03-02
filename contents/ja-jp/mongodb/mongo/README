@@ -1,0 +1,87 @@
+MongoDB README
+
+MongoDBへようこそ！
+
+コンポーネント
+
+  mongod - データベースサーバー。
+  mongos - シャーディングルーター。
+  mongo  - データベースシェル（インタラクティブなJavaScriptを使用）。
+
+ユーティリティ
+
+  install_compass   - プラットフォームにMongoDB Compassをインストールします。
+
+ビルド
+
+  docs/building.md をご覧下さい。
+
+実行
+
+  コマンドラインオプションの場合は、次を呼び出します：
+
+    $ ./mongod --help
+
+  単一サーバーデータベースを実行するには：
+
+    $ sudo mkdir -p /data/db
+    $ ./mongod
+    $
+    $ # mongo javascriptシェルは、デフォルトでlocalhostとテストデータベースに接続します：
+    $ ./mongo
+    > help
+
+COMPASSのインストール
+
+  MongoDBにパッケージ化されているinstall_compassスクリプトを使用して、compassをインストールできます：
+
+    $ ./install_compass
+
+  これにより、プラットフォームに適したMongoDB Compassパッケージがダウンロードされ、インストールされます。
+
+ドライバー
+
+  ほとんどのプログラミング言語のクライアントドライバーは、
+  https://docs.mongodb.com/manual/applications/drivers/ で入手できます。管理タスクにはシェル
+  ("mongo") を使用します。
+
+バグレポート
+
+  https://github.com/mongodb/mongo/wiki/Submit-Bug-Reports をご覧下さい。
+
+パッケージ
+
+  パッケージは、buildscriptsディレクトリにあるpackage.pyスクリプトによって動的に作成されます。
+  これにより、RPMおよびDebianパッケージが生成されます。
+
+ドキュメント
+
+  https://docs.mongodb.com/manual/
+
+クラウドホスティングのMONGODB
+
+  https://www.mongodb.com/cloud/atlas
+
+フォーラム
+
+  https://community.mongodb.com
+
+    MongoDBの使用に関する技術的な質問のためのフォーラム。
+
+  https://community.mongodb.com/c/server-dev
+
+    MongoDBの構築と開発に関する技術的な質問のためのフォーラム。
+
+MONGODBを学ぶ
+
+  https://university.mongodb.com/
+
+ライセンス
+
+  MongoDBは無料で、ソースが利用可能です。2018年10月16日より前にリリースされたバージョンは、
+  AGPLで公開されています。2018年10月16日以降にリリースされたすべてのバージョンは、
+  以前のバージョンのパッチ修正を含め、Server Side Public License（SSPL）v1で公開されています。
+  詳細については、個々のファイルを参照してください。
+
+---
+[オリジナル](https://github.com/mongodb/mongo/blob/master/README)
