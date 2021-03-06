@@ -39,6 +39,7 @@
 - [meteor/meteor](https://github.com/meteor/meteor) : [README.md](./meteor/meteor/README.md)
 - [mongodb/mongo](https://github.com/mongodb/mongo) : [CONTRIBUTING.rst](./mongodb/mongo/CONTRIBUTING.rst) / [README.md](./mongodb/mongo/README)
 - [npm/cli](https://github.com/npm/cli) : [README.md](./npm/cli/README.md)
+- [pallets/flask](https://github.com/pallets/flask) : [README.md](./pallets/flask/README.rst)
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) : [CONTRIBUTING.md](./rust-lang/cargo/CONTRIBUTING.md) / [README.md](./rust-lang/cargo/README.md)
 - [torvalds/linux](https://github.com/torvalds/linux) : [README](./torvalds/linux/README)
 - [usablica/intro.js](https://github.com/usablica/intro.js) : [README.md](./usablica/intro.js/README.md)
