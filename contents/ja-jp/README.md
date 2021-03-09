@@ -27,6 +27,7 @@
 - [0594mazhiyuan/996.survey](https://github.com/0594mazhiyuan/996.survey) : [README.md](./0594mazhiyuan/996.survey/README.md)
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) : [LICENSE](./996icu/996.ICU/LICENSE) / [README.md](./996icu/996.ICU/README.md)
 - [babel/babel](https://github.com/babel/babel) : [README.md](./babel/babel/README.md)
+- [chartjs/Chart.js](https://github.com/chartjs/Chart.js) : [MAINTAINING.md](./chartjs/Chart.js/MAINTAINING.md) / [README.md](./chartjs/Chart.js/README.md)
 - [composer/composer](https://github.com/composer/composer) : [README.md](./composer/composer/README.md)
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) : [README.md](./crystal-lang/crystal/README.md)
 - [d3/d3](https://github.com/d3/d3) : [README.md](./d3/d3/README.md)
