@@ -39,6 +39,7 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : [README.md](./kamranahmedse/developer-roadmap/README.md)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) : [CONTRIBUTING.md](./kubernetes/kubernetes/CONTRIBUTING.md) / [README.md](./kubernetes/kubernetes/README.md) / [SUPPORT.md](./kubernetes/kubernetes/SUPPORT.md)
 - [laravel/laravel](https://github.com/laravel/laravel) : [README.md](./laravel/laravel/README.md)
+- [lodash/lodash](https://github.com/lodash/lodash) : [README.md](./lodash/lodash/README.md)
 - [meteor/meteor](https://github.com/meteor/meteor) : [README.md](./meteor/meteor/README.md)
 - [mongodb/mongo](https://github.com/mongodb/mongo) : [CONTRIBUTING.rst](./mongodb/mongo/CONTRIBUTING.rst) / [README.md](./mongodb/mongo/README)
 - [npm/cli](https://github.com/npm/cli) : [README.md](./npm/cli/README.md)
