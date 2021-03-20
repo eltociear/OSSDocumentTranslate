@@ -49,6 +49,7 @@
 - [torvalds/linux](https://github.com/torvalds/linux) : [README](./torvalds/linux/README)
 - [usablica/intro.js](https://github.com/usablica/intro.js) : [README.md](./usablica/intro.js/README.md)
 - [vercel/next.js](https://github.com/vercel/next.js) : [README.md](./vercel/next.js/packages/next/README.md) / [SECURITY.md](./vercel/next.js/SECURITY.md) / [UPGRADING.md](./vercel/next.js/UPGRADING.md)
+- [vuejs/vue-cli](https://github.com/vuejs/vue-cli) : [README.md](./vuejs/vue-cli/README.md)
 - [vuejs/vuex](https://github.com/vuejs/vuex) : [README.md](./vuejs/vuex/README.md)
 - [whatwg/html](https://github.com/whatwg/html) : [README.md](./whatwg/html/README.md)
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) : [CONTRIBUTING.md](./yarnpkg/yarn/CONTRIBUTING.md) / [README.md](./yarnpkg/yarn/README.md)
