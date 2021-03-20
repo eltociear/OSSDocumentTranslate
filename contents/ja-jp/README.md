@@ -52,4 +52,5 @@
 - [vuejs/vue-cli](https://github.com/vuejs/vue-cli) : [README.md](./vuejs/vue-cli/README.md)
 - [vuejs/vuex](https://github.com/vuejs/vuex) : [README.md](./vuejs/vuex/README.md)
 - [whatwg/html](https://github.com/whatwg/html) : [README.md](./whatwg/html/README.md)
+- [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) : [README.md](./x64dbg/x64dbg/README.md)
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) : [CONTRIBUTING.md](./yarnpkg/yarn/CONTRIBUTING.md) / [README.md](./yarnpkg/yarn/README.md)
