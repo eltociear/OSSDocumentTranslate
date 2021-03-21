@@ -1,5 +1,5 @@
 # OSS Documents Translate (ja-jp)
-[English (en-us)](../../README.md)
+[English (en-us)](../../README.md) / [简体中文 (zh-cn)](../zh-cn/README.md)
 
 ## このリポジトリは何？
 **非公式でドキュメントの翻訳のみを行っています。**
@@ -10,7 +10,7 @@
 出来うる限り早めに対応いたします。
 
 ## コントリビュート
-[CONTRIBUTING.md](./CONTRIBUTING.md) をご覧下さい。
+[CONTRIBUTING.md](./CONTRIBUTING.md)をご覧下さい。
 
 ## 免責事項
 ガバ訳ですので、この内容を読んで実行した事に関するあらゆる責任負いかねます。

@@ -19,3 +19,4 @@ The rules for modifying or changing according to translation are as follows:
 ### Need to change
 - encoding: UTF-8
 - line feed code: LF
+- Add a link to the original at the end of the file
