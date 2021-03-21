@@ -10,7 +10,7 @@
 出来うる限り早めに対応いたします。
 
 ## コントリビュート
-[CONTRIBUTING.md](./CONTRIBUTING.md) をご覧下さい。
+[CONTRIBUTING.md](./CONTRIBUTING.md)をご覧下さい。
 
 ## 免責事項
 ガバ訳ですので、この内容を読んで実行した事に関するあらゆる責任負いかねます。
