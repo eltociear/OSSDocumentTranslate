@@ -48,6 +48,7 @@
 - [npm/cli](https://github.com/npm/cli) : [README.md](./npm/cli/README.md)
 - [pallets/flask](https://github.com/pallets/flask) : [README.md](./pallets/flask/README.rst)
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) : [CONTRIBUTING.md](./rust-lang/cargo/CONTRIBUTING.md) / [README.md](./rust-lang/cargo/README.md)
+- [sass/migrator](https://github.com/sass/migrator) : [CODE_OF_CONDUCT.md](./sass/migrator/CODE_OF_CONDUCT.md) / [README.md](./sass/migrator/README.md)
 - [sass/sass](https://github.com/sass/sass) : [CODE_OF_CONDUCT.md](./sass/sass/CODE_OF_CONDUCT.md) / [README.md](./sass/sass/README.md)
 - [sass/sass-site](https://github.com/sass/sass-site) : [CODE_OF_CONDUCT.md](./sass/sass-site/CODE_OF_CONDUCT.md) / [README.md](./sass/sass-site/README.md)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) : [README.md](./sebastianbergmann/phpunit/README.md)
