@@ -21,4 +21,4 @@
 我们想借此机会感谢所有OSS，其作者和所有贡献者。
 
 ## Repository所有者
-@eltociear (Ikko Ashimine)
+[@eltociear](https://github.com/eltociear) (Ikko Ashimine)
