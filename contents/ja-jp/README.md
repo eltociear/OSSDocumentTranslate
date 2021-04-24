@@ -40,6 +40,7 @@
 - [google/material-design-icons](https://github.com/google/material-design-icons) : [README.md](./google/material-design-icons/README.md)
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) : [README.md](./jenkinsci/jenkins/README.md)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : [README.md](./kamranahmedse/developer-roadmap/README.md)
+- [katherinepeterson/readme.so](https://github.com/katherinepeterson/readme.so) : [CONTRIBUTING.md](./katherinepeterson/readme.so/CONTRIBUTING.md) / [README.md](./katherinepeterson/readme.so/README.md)
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) : [CONTRIBUTING.md](./kelseyhightower/nocode/CONTRIBUTING.md) / [README.md](./kelseyhightower/nocode/README.md) / [STYLE.md](./kelseyhightower/nocode/STYLE.md)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) : [CONTRIBUTING.md](./kubernetes/kubernetes/CONTRIBUTING.md) / [README.md](./kubernetes/kubernetes/README.md) / [SUPPORT.md](./kubernetes/kubernetes/SUPPORT.md)
 - [laravel/laravel](https://github.com/laravel/laravel) : [README.md](./laravel/laravel/README.md)
