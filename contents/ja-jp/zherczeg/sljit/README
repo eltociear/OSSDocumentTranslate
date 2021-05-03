@@ -1,0 +1,43 @@
+
+                     SLJIT - スタックレスJITコンパイラ
+
+目的：
+  解釈されたバイトコードをマシンコードに変換するのに適した、
+  マシンに依存しないシンプルなJITコンパイラ。
+  sljitLir.hは、SLJITのLIR（低レベルの中間表現）を記述します。
+
+互換性：
+  任意のC（C ++）コンパイラ。少なくとも私はそう願っています。
+
+sljitの使用：
+  sljit_srcディレクトリの内容をプロジェクトのソースディレクトリにコピーします。
+  sljitLir.cソースファイルをビルド環境に追加します。
+  他のすべてのファイルはsljitLir.cに含まれています（必要な場合）。
+  SLJIT_CONFIG_*セレクターでマシンを定義します。可能なすべての値については、sljitConfig.hを参照してください。
+  C++コンパイラの場合、sljitLir.cの名前をsljitLir.cppに変更します。
+
+より詳しい情報：
+  https://zherczeg.github.io/sljit/
+
+連絡先：
+  hzmester@freemail.hu
+
+スペシャルサンクス：
+  Alexander Nasonov
+  Carlo Marcelo Arenas Belón
+  Christian Persch
+  Daniel Richard G.
+  Giuseppe D'Angelo
+  H.J. Lu
+  James Cowgill
+  Jason Hood
+  Jiong Wang (TileGX サポート)
+  Marc Mutz
+  Martin Storsjö
+  Michael McConville
+  Walter Lee
+  Wen Xichang
+  YunQiang Su
+
+---
+[オリジナル](https://github.com/zherczeg/sljit/blob/master/README)
