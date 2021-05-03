@@ -66,3 +66,4 @@
 - [whatwg/html](https://github.com/whatwg/html) : [README.md](./whatwg/html/README.md)
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) : [README.md](./x64dbg/x64dbg/README.md)
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) : [CONTRIBUTING.md](./yarnpkg/yarn/CONTRIBUTING.md) / [README.md](./yarnpkg/yarn/README.md)
+- [zherczeg/sljit](https://github.com/zherczeg/sljit) : [README](./zherczeg/sljit/README)
