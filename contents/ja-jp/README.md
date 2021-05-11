@@ -31,6 +31,7 @@
 - [cloudflare/1.1.1.1](https://github.com/cloudflare/1.1.1.1) : [README.md](./cloudflare/1.1.1.1/README.md)
 - [composer/composer](https://github.com/composer/composer) : [README.md](./composer/composer/README.md)
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) : [README.md](./crystal-lang/crystal/README.md)
+- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) : [README.md](./CyC2018/CS-Notes/README.md)
 - [d3/d3](https://github.com/d3/d3) : [README.md](./d3/d3/README.md)
 - [denoland/deno](https://github.com/denoland/deno) : [CODE_OF_CONDUCT.md](./denoland/deno/CODE_OF_CONDUCT.md) / [README.md](./denoland/deno/README.md)
 - [dotnet/core](https://github.com/dotnet/core) : [CODE_OF_CONDUCT.md](./dotnet/core/CODE_OF_CONDUCT.md) / [CONTRIBUTING.md](./dotnet/core/CONTRIBUTING.md) / [README.md](./dotnet/core/README.md)
