@@ -47,6 +47,7 @@
 - [laravel/laravel](https://github.com/laravel/laravel) : [README.md](./laravel/laravel/README.md)
 - [lodash/lodash](https://github.com/lodash/lodash) : [README.md](./lodash/lodash/README.md)
 - [meteor/meteor](https://github.com/meteor/meteor) : [README.md](./meteor/meteor/README.md)
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) : [CODE_OF_CONDUCT.md](./microsoft/TypeScript/CODE_OF_CONDUCT.md) / [README.md](./microsoft/TypeScript/README.md)
 - [mongodb/mongo](https://github.com/mongodb/mongo) : [CONTRIBUTING.rst](./mongodb/mongo/CONTRIBUTING.rst) / [README](./mongodb/mongo/README)
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) : [README.md](./mrdoob/three.js/README.md)
 - [npm/cli](https://github.com/npm/cli) : [README.md](./npm/cli/README.md)
