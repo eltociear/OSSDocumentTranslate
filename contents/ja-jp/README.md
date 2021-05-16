@@ -40,6 +40,7 @@
 - [golang/go](https://github.com/golang/go) : [CONTRIBUTING.md](./golang/go/CONTRIBUTING.md) / [README.md](./golang/go/README.md)
 - [google/material-design-icons](https://github.com/google/material-design-icons) : [README.md](./google/material-design-icons/README.md)
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) : [README.md](./jenkinsci/jenkins/README.md)
+- [juliangarnier/anime](https://github.com/juliangarnier/anime) : [README.md](./juliangarnier/anime/README.md)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : [README.md](./kamranahmedse/developer-roadmap/README.md)
 - [katherinepeterson/readme.so](https://github.com/katherinepeterson/readme.so) : [CONTRIBUTING.md](./katherinepeterson/readme.so/CONTRIBUTING.md) / [README.md](./katherinepeterson/readme.so/README.md)
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) : [CONTRIBUTING.md](./kelseyhightower/nocode/CONTRIBUTING.md) / [README.md](./kelseyhightower/nocode/README.md) / [STYLE.md](./kelseyhightower/nocode/STYLE.md)
