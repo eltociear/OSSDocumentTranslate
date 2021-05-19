@@ -79,4 +79,4 @@ Pallets組織は、Flaskとそれが使用するライブラリを開発およ�
 -   チャット： https://discord.gg/pallets
 
 ---
-[オリジナル](https://github.com/pallets/flask/blob/master/README.rst)
+[オリジナル](https://github.com/pallets/flask/blob/main/README.rst)
