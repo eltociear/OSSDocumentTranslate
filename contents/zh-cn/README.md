@@ -1,5 +1,5 @@
 # OSS Documents Translate (zh-cn)
-[English (en-us)](../../README.md) / [日本語 (ja-jp)](../ja-jp/README.md) / [繁体中文 (zh-tw)](../zh-tw/README.md)
+[English (en-us)](../../README.md) / [日本語 (ja-jp)](../ja-jp/README.md) / 简体中文 (zh-cn) / [繁体中文 (zh-tw)](../zh-tw/README.md)
 
 ## 这个Repository是什么？
 **我们仅非正式地翻译文档。**
