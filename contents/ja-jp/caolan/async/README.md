@@ -58,3 +58,6 @@ async.mapLimit(urls, 5, async function(url) {
     console.log(results)
 })
 ```
+
+---
+[オリジナル](https://github.com/caolan/async/blob/master/README.md)
