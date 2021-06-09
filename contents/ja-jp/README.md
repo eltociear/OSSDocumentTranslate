@@ -65,6 +65,7 @@
 - [sass/sass-site](https://github.com/sass/sass-site) : [CODE_OF_CONDUCT.md](./sass/sass-site/CODE_OF_CONDUCT.md) / [README.md](./sass/sass-site/README.md)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) : [README.md](./sebastianbergmann/phpunit/README.md)
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) : [awesome.md](./sindresorhus/awesome/awesome.md)
+- [smarty-php/smarty](https://github.com/smarty-php/smarty) : [README.md](./smarty-php/smarty/README.md) / [SECURITY.md](./smarty-php/smarty/SECURITY.md)
 - [Tencent/weui](https://github.com/Tencent/weui) : [README.md](./Tencent/weui/README.md)
 - [torvalds/linux](https://github.com/torvalds/linux) : [README](./torvalds/linux/README)
 - [usablica/intro.js](https://github.com/usablica/intro.js) : [README.md](./usablica/intro.js/README.md)
