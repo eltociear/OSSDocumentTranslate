@@ -42,6 +42,7 @@
 - [getsentry/sentry](https://github.com/getsentry/sentry) : [README.md](./getsentry/sentry/README.md)
 - [golang/go](https://github.com/golang/go) : [CONTRIBUTING.md](./golang/go/CONTRIBUTING.md) / [README.md](./golang/go/README.md)
 - [google/material-design-icons](https://github.com/google/material-design-icons) : [README.md](./google/material-design-icons/README.md)
+- [iotaledger/iota.go](https://github.com/iotaledger/iota.go) : [README.md](./iotaledger/iota.go/README.md)
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) : [README.md](./jenkinsci/jenkins/README.md)
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) : [README.md](./juliangarnier/anime/README.md)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : [README.md](./kamranahmedse/developer-roadmap/README.md)
