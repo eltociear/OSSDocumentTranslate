@@ -70,3 +70,6 @@ https://docs.phpmyadmin.net/ を参照して下さい、またはドキュメン
 翻訳は大歓迎です。`phpMyAdminを自分の言語に翻訳できます <https://hosted.weblate.org/projects/phpmyadmin/>`_ 。
 
 phpMyAdminのコードベースに貢献したい場合は、 `コードコントリビューションファイル <CONTRIBUTING.md>`_ を読むか、当社のWebサイトの `コントリビューションページ <https://www.phpmyadmin.net/contribute/>`_ を参照してください。
+
+---
+[オリジナル](https://github.com/phpmyadmin/phpmyadmin/blob/master/README.rst)
