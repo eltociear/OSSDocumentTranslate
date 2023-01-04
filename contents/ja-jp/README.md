@@ -21,7 +21,7 @@
 全てのOSSとその作者様、そして全てのコントリビューター様にこの場をお借りして感謝申し上げます。
 
 ## リポジトリ所有者
-[@eltociear](https://github.com/eltociear) (Ikko Ashimine)
+[@eltociear](https://github.com/eltociear) (Ikko Eltociear Ashimine)
 
 ## 翻訳済リスト
 - [0594mazhiyuan/996.survey](https://github.com/0594mazhiyuan/996.survey) : [README.md](./0594mazhiyuan/996.survey/README.md)

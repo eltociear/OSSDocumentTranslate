@@ -21,4 +21,4 @@ The world will not develop without everyone's contribution.
 I would like to take this opportunity to thank all OSS, its creators, and all contributors.
 
 ## Repository owner
-[@eltociear](https://github.com/eltociear) (Ikko Ashimine)
+[@eltociear](https://github.com/eltociear) (Ikko Eltociear Ashimine)
